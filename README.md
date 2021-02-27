@@ -1,19 +1,3 @@
-# CMPE-256-Project-Repo
-## Required Packages: 
-    1. python version 3.6.10
-    2. NetworkX
-    3. Matplotlib (visualizations)
-    4. pandas
-    5. numpy
-    6. random
-    7. sklearn
-    8. tqdm
-    9. re
-    10. Collections
-    11. itertools
-    12. Numpy
-    13. Time
-
 ## Analysis Performed:
 ### Most Influential User
 This file discusses about the four different algorithms to identify the most inflential users in the egoNode : 698.
@@ -44,5 +28,21 @@ The folder 'Community Detection_Girvan-Newman_Louvain' contains following files:
 4. commdect_algos_eval.py : A utility file that has Girvan-Newman algorithm that returns communities, cost and loss functions for evaluating the communties detected and returns the score. This file is imported to Community_Detection_Grivan_Louvain.ipynb
 5. plotGraphs.py : A Utility file that has functions designed to plot all types of graphs which include ego network plots, community detection plots, evaluation plots. This file is imported to Community_Detection_Grivan_Louvain.ipynb
 6. Images : This folder contains all images related to ego-networks, community plots and evalautions results.
+
+
+## Required Packages: 
+    1. python version 3.6.10
+    2. NetworkX
+    3. Matplotlib (visualizations)
+    4. pandas
+    5. numpy
+    6. random
+    7. sklearn
+    8. tqdm
+    9. re
+    10. Collections
+    11. itertools
+    12. Numpy
+    13. Time
     
     
