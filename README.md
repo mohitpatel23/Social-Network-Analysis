@@ -13,6 +13,8 @@
     11. itertools
     12. Numpy
     13. Time
+
+## Analysis Performed:
 ### Most Influential User
 This file discusses about the four different algorithms to identify the most inflential users in the egoNode : 698.
 Number of Nodes: 62 and
